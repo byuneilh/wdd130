@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: aliceblue;
+}
+h1 p{
+    text-align: center;
+    color: aliceblue;
+}
+img {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+ol {
+    text-align: center;
+    color: black;
+}
+section{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+div{
+    text-align: center;
+    font: bold;
+    font-size: 20px;
+    color:black;
+}
