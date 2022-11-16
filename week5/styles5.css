@@ -1,0 +1,17 @@
+div img{
+    width: 300px;
+    height: 300px;
+    padding: auto;
+    margin: 35px;
+    text-align: center;
+    border-radius: 250px;
+}
+body{
+    margin: 0;
+}
+img{
+     width: 100%;
+    text-align: center;
+    background-position: 0;
+    
+}
