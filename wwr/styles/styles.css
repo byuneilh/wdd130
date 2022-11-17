@@ -204,6 +204,26 @@ footer a:hover{
     opacity: .6;
     transform: scale(1.1);
 }
+/* From here begins the style changes for page 2 */
+#rivers{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: darkgray;
+}
+.rivers-sedcond{
+    grid-column: 1/4;
+    grid-row: 1/2;
+    width: 100%;
+}
+.river-parragrap{
+    grid-column: 1/4;
+    grid-row: 2/3;
+    align-items: center;
+    font: normal;
+    color: black;
+    font-size: 25px;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
